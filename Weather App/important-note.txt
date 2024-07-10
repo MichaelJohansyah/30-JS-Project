@@ -1,0 +1,6 @@
+Warning
+
+You can't just copy all the code, because you must use API from OpenWeatherMap.
+
+For detailed tutorial, you must watch from Great Stack Youtube channel
+here's the link : https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9
